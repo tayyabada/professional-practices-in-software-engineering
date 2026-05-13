@@ -1,4 +1,4 @@
-# Professional-Practices-In-Software-Engineering
+# Professional Practices In Software Engineering
 
 ## Overview
 This project is about software engineering as a profession. It explains software ethics, accreditation, licensing, professional organizations and the responsibilities of software engineers.
